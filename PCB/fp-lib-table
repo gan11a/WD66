@@ -1,0 +1,6 @@
+(fp_lib_table
+(lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
+(lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr ""))
+(lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))
+(lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+)
