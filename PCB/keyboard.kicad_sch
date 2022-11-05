@@ -4627,7 +4627,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 240.9275 204.47 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 224.155 208.915 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-2.25U-NoLED" (id 2) (at 224.155 208.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 224.155 208.915 0)
@@ -6410,7 +6410,7 @@
       (reference "MX57") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/81b6bdbf-481a-4613-94c1-dce831f0fcfe"
-      (reference "MX58") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "MX58") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED")
     )
     (path "/f1de1179-e025-4787-9175-a16c216071eb"
       (reference "MX59") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
