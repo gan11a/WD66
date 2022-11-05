@@ -2880,7 +2880,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 273.9475 139.7 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 257.175 144.145 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-2U-NoLED" (id 2) (at 257.175 144.145 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 257.175 144.145 0)
@@ -3108,7 +3108,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 257.4375 181.61 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 240.665 186.055 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-2.25U-NoLED" (id 2) (at 240.665 186.055 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 240.665 186.055 0)
@@ -3429,7 +3429,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 138.0575 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 121.285 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 121.285 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 121.285 230.505 0)
@@ -4076,7 +4076,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 120.2775 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 103.505 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 103.505 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 103.505 230.505 0)
@@ -4307,7 +4307,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 85.9875 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 69.215 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 69.215 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 69.215 230.505 0)
@@ -4532,7 +4532,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 103.7675 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 86.995 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-6.25U-NoLED" (id 2) (at 86.995 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 86.995 230.505 0)
@@ -4570,7 +4570,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 273.9475 160.02 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 257.175 164.465 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED" (id 2) (at 257.175 164.465 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 257.175 164.465 0)
@@ -4627,7 +4627,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 240.9275 204.47 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 224.155 208.915 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 224.155 208.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 224.155 208.915 0)
@@ -4911,7 +4911,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 47.8875 204.47 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 31.115 208.915 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-2.25U-NoLED" (id 2) (at 31.115 208.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 31.115 208.915 0)
@@ -5143,7 +5143,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 47.8875 160.02 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 31.115 164.465 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED" (id 2) (at 31.115 164.465 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 31.115 164.465 0)
@@ -5313,7 +5313,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 157.1075 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 140.335 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 140.335 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 140.335 230.505 0)
@@ -5408,7 +5408,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 47.8875 181.61 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 31.115 186.055 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED" (id 2) (at 31.115 186.055 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 31.115 186.055 0)
@@ -5730,7 +5730,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 47.8875 226.06 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 31.115 230.505 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED" (id 2) (at 31.115 230.505 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 31.115 230.505 0)
@@ -6242,16 +6242,16 @@
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/b579a5a9-c6d1-48bd-84f1-5dc214d38375"
-      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED")
     )
     (path "/d77afc97-b763-4d8c-b6bf-0ca559a19157"
-      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED")
     )
     (path "/a1c7ba82-88e6-47ff-a9c4-2232fbeb6d48"
-      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED")
     )
     (path "/ef190a3f-72b4-49ca-a31c-14730304968e"
-      (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/9489c180-9095-4e9b-9ce3-39ab9e092852"
       (reference "MX6") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6281,7 +6281,7 @@
       (reference "MX14") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/691b87b5-f243-4780-b4ff-8063b47a77e4"
-      (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX15") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/420749f4-f093-427a-b007-dec9f8edd9c4"
       (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6296,7 +6296,7 @@
       (reference "MX19") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/7bbd9331-b8d7-470d-8660-5ff4520c8375"
-      (reference "MX20") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX20") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-6.25U-NoLED")
     )
     (path "/5f840a8e-d918-4cb0-9806-417e931f3ec3"
       (reference "MX21") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6311,7 +6311,7 @@
       (reference "MX24") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/5add7154-4e63-41b9-b906-ec54f8690dbb"
-      (reference "MX25") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX25") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/a06bef4c-ca33-402e-978d-b803aa6dd549"
       (reference "MX26") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6326,7 +6326,7 @@
       (reference "MX29") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/2a35ebca-9834-4e7f-b67a-d1fe902bdb26"
-      (reference "MX30") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX30") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/0fd9f6ac-5f71-43bd-8ab8-8b28121df25c"
       (reference "MX31") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6341,7 +6341,7 @@
       (reference "MX34") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/ce5c33f0-fd55-4141-beea-fc38e03c4a12"
-      (reference "MX35") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX35") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/97e3d1f8-85a4-40ab-a7c4-773394d227e3"
       (reference "MX36") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6410,7 +6410,7 @@
       (reference "MX57") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/81b6bdbf-481a-4613-94c1-dce831f0fcfe"
-      (reference "MX58") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX58") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
     )
     (path "/f1de1179-e025-4787-9175-a16c216071eb"
       (reference "MX59") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
@@ -6419,16 +6419,16 @@
       (reference "MX60") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/165d459a-a80c-46e6-946c-add18f788982"
-      (reference "MX61") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX61") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED")
     )
     (path "/8b5c8579-bebf-4069-82e9-fb68f50a3f97"
       (reference "MX62") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/062e085b-8f23-45fa-ada8-23a80f61f29b"
-      (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-2U-NoLED")
     )
     (path "/80b547f7-6e38-477e-a098-e02075564787"
-      (reference "MX64") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX64") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED")
     )
     (path "/e7c00da9-1fab-49a9-a0ef-e747f94b741d"
       (reference "MX65") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
