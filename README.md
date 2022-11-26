@@ -1,4 +1,7 @@
 # WD66
 # Terraria inspired keyboard.
-# Very early development, if you want to be a tester for this board dm me on discord gan1a#5261, or simply fork the repository.
+# As of 11/27/2022 PCB is finished, but not yet tested. Prototypes will be ordered as soon as I have money))
+<p align="center">
+<img width=400 source=https://i.imgur.com/h152PBI.png>
+</p>
 # By 11Customs
