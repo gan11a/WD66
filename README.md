@@ -1,4 +1,4 @@
-# [BETA BRANCH] 
+# [BETA BRANCH]
 # WD66
 # Terraria inspired keyboard.
 # As of 11/27/2022 PCB is finished, but not yet tested.
