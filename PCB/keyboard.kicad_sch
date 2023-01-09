@@ -6328,7 +6328,7 @@
     (property "Value" "SRV05-4" (id 1) (at 204.47 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (id 2) (at 223.52 50.8 0)
+    (property "Footprint" "marbastlib-various:SOT-23-6-routable" (id 2) (at 223.52 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" (id 3) (at 205.74 39.37 0)
@@ -7097,7 +7097,7 @@
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
     )
     (path "/ef12052d-f84d-46d8-a991-3451abdfdbc0"
-      (reference "U2") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+      (reference "U2") (unit 1) (value "SRV05-4") (footprint "marbastlib-various:SOT-23-6-routable")
     )
     (path "/554c564d-e286-4b2b-aa94-325d745117a1"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")

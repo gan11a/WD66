@@ -2,4 +2,7 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "D:/Keyboards/Soyuz65/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "D:/Keyboards/Soyuz65/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "D:/Keyboards/Soyuz65/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/Keyboards/Soyuz65/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/Keyboards/Soyuz65/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
 )
