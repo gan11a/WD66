@@ -9,14 +9,19 @@
                     "reference1": "U2",
                     "pad1": "1",
                     "pin1": "U2.1",
-                    "reference2": "J1",
-                    "pad2": "3",
-                    "pin2": "J1.3",
+                    "reference2": "U1",
+                    "pad2": "4",
+                    "pin2": "U1.4",
                     "pads": [
                         {
                             "reference": "U2",
                             "pad": "1",
                             "pin": "U2.1"
+                        },
+                        {
+                            "reference": "U1",
+                            "pad": "4",
+                            "pin": "U1.4"
                         },
                         {
                             "reference": "J1",
@@ -25,15 +30,15 @@
                         },
                         {
                             "reference": "R1",
+                            "pad": "2",
+                            "pin": "R1.2"
+                        },
+                        {
+                            "reference": "R1",
                             "pad": "1",
                             "pin": "R1.1"
                         }
-                    ],
-                    "status": "error",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 0.0,
-                    "totallength": 0.0
+                    ]
                 },
                 {
                     "name": "D-",
@@ -41,14 +46,19 @@
                     "reference1": "U2",
                     "pad1": "6",
                     "pin1": "U2.6",
-                    "reference2": "J1",
-                    "pad2": "2",
-                    "pin2": "J1.2",
+                    "reference2": "U1",
+                    "pad2": "3",
+                    "pin2": "U1.3",
                     "pads": [
                         {
                             "reference": "U2",
                             "pad": "6",
                             "pin": "U2.6"
+                        },
+                        {
+                            "reference": "U1",
+                            "pad": "3",
+                            "pin": "U1.3"
                         },
                         {
                             "reference": "J1",
@@ -57,292 +67,21 @@
                         },
                         {
                             "reference": "R2",
-                            "pad": "1",
-                            "pin": "R2.1"
-                        }
-                    ],
-                    "status": "error",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 0.0,
-                    "totallength": 0.0
-                },
-                {
-                    "name": "Net-(U1-D+)",
-                    "code": 86,
-                    "reference1": "U1",
-                    "pad1": "4",
-                    "pin1": "U1.4",
-                    "reference2": "R1",
-                    "pad2": "2",
-                    "pin2": "R1.2",
-                    "pads": [
-                        {
-                            "reference": "U1",
-                            "pad": "4",
-                            "pin": "U1.4"
-                        },
-                        {
-                            "reference": "R1",
                             "pad": "2",
-                            "pin": "R1.2"
-                        }
-                    ],
-                    "status": "done",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 12.779984461010415,
-                    "totallength": 12.779984461010415
-                },
-                {
-                    "name": "Net-(U1-D-)",
-                    "code": 87,
-                    "reference1": "U1",
-                    "pad1": "3",
-                    "pin1": "U1.3",
-                    "reference2": "R2",
-                    "pad2": "2",
-                    "pin2": "R2.2",
-                    "pads": [
-                        {
-                            "reference": "U1",
-                            "pad": "3",
-                            "pin": "U1.3"
+                            "pin": "R2.2"
                         },
                         {
                             "reference": "R2",
-                            "pad": "2",
-                            "pin": "R2.2"
+                            "pad": "1",
+                            "pin": "R2.1"
                         }
-                    ],
-                    "status": "done",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 11.687278474588144,
-                    "totallength": 11.687278474588144
+                    ]
                 }
             ]
         },
         {
             "name": "Power",
-            "nets": [
-                {
-                    "name": "+5V",
-                    "code": 8,
-                    "reference1": "R3",
-                    "pad1": "1",
-                    "pin1": "R3.1",
-                    "reference2": "C2",
-                    "pad2": "1",
-                    "pin2": "C2.1",
-                    "pads": [
-                        {
-                            "reference": "R3",
-                            "pad": "1",
-                            "pin": "R3.1"
-                        },
-                        {
-                            "reference": "C2",
-                            "pad": "1",
-                            "pin": "C2.1"
-                        },
-                        {
-                            "reference": "F1",
-                            "pad": "2",
-                            "pin": "F1.2"
-                        },
-                        {
-                            "reference": "C7",
-                            "pad": "1",
-                            "pin": "C7.1"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "2",
-                            "pin": "U1.2"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "7",
-                            "pin": "U1.7"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "14",
-                            "pin": "U1.14"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "24",
-                            "pin": "U1.24"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "34",
-                            "pin": "U1.34"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "44",
-                            "pin": "U1.44"
-                        },
-                        {
-                            "reference": "C1",
-                            "pad": "1",
-                            "pin": "C1.1"
-                        },
-                        {
-                            "reference": "C5",
-                            "pad": "1",
-                            "pin": "C5.1"
-                        }
-                    ],
-                    "status": "error",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 0.0,
-                    "totallength": 0.0
-                },
-                {
-                    "name": "GND",
-                    "code": 18,
-                    "reference1": "Y1",
-                    "pad1": "2",
-                    "pin1": "Y1.2",
-                    "reference2": "Y1",
-                    "pad2": "4",
-                    "pin2": "Y1.4",
-                    "pads": [
-                        {
-                            "reference": "Y1",
-                            "pad": "2",
-                            "pin": "Y1.2"
-                        },
-                        {
-                            "reference": "Y1",
-                            "pad": "4",
-                            "pin": "Y1.4"
-                        },
-                        {
-                            "reference": "C2",
-                            "pad": "2",
-                            "pin": "C2.2"
-                        },
-                        {
-                            "reference": "R4",
-                            "pad": "2",
-                            "pin": "R4.2"
-                        },
-                        {
-                            "reference": "U2",
-                            "pad": "2",
-                            "pin": "U2.2"
-                        },
-                        {
-                            "reference": "C4",
-                            "pad": "1",
-                            "pin": "C4.1"
-                        },
-                        {
-                            "reference": "C7",
-                            "pad": "2",
-                            "pin": "C7.2"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "5",
-                            "pin": "U1.5"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "15",
-                            "pin": "U1.15"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "23",
-                            "pin": "U1.23"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "35",
-                            "pin": "U1.35"
-                        },
-                        {
-                            "reference": "U1",
-                            "pad": "43",
-                            "pin": "U1.43"
-                        },
-                        {
-                            "reference": "C1",
-                            "pad": "2",
-                            "pin": "C1.2"
-                        },
-                        {
-                            "reference": "SW1",
-                            "pad": "1",
-                            "pin": "SW1.1"
-                        },
-                        {
-                            "reference": "C5",
-                            "pad": "2",
-                            "pin": "C5.2"
-                        },
-                        {
-                            "reference": "J1",
-                            "pad": "4",
-                            "pin": "J1.4"
-                        },
-                        {
-                            "reference": "C6",
-                            "pad": "2",
-                            "pin": "C6.2"
-                        },
-                        {
-                            "reference": "C3",
-                            "pad": "1",
-                            "pin": "C3.1"
-                        }
-                    ],
-                    "status": "done",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 3.4659451370200913,
-                    "totallength": 3.4659451370200913
-                },
-                {
-                    "name": "VBUS",
-                    "code": 95,
-                    "reference1": "U2",
-                    "pad1": "5",
-                    "pin1": "U2.5",
-                    "reference2": "F1",
-                    "pad2": "1",
-                    "pin2": "F1.1",
-                    "pads": [
-                        {
-                            "reference": "U2",
-                            "pad": "5",
-                            "pin": "U2.5"
-                        },
-                        {
-                            "reference": "F1",
-                            "pad": "1",
-                            "pin": "F1.1"
-                        },
-                        {
-                            "reference": "J1",
-                            "pad": "1",
-                            "pin": "J1.1"
-                        }
-                    ],
-                    "status": "error",
-                    "viacount": 0,
-                    "vialength": 0.0,
-                    "tracklength": 0.0,
-                    "totallength": 0.0
-                }
-            ]
+            "nets": []
         }
     ]
 }
