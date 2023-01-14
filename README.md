@@ -1,4 +1,4 @@
-# [BETA BRANCH] Redid the wiring. Not yet on the main branch.
+# [BETA BRANCH] Not yet on the main branch.
 # WD66 ver 0.1
 # Terraria inspired keyboard.
 # As of 11/27/2022 PCB is finished, but not yet tested.
@@ -21,6 +21,7 @@ PCB:
   <li>Peer review</li>
   <ul>
   <li>Misc changes from peer review (Ver 0.2)</li>
+  <li>Add layout options + maybe rotate the diodes</li>
   </ul>
   <li>Prototyping; 1st round (Only PCB)</li>
   <ul>
