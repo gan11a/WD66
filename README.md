@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-# [BETA BRANCH] Not yet on the main branch.
->>>>>>> beta
-
 # WD66 ver 0.1
 
 # Terraria inspired keyboard.
