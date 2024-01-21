@@ -19,27 +19,7 @@ PCB renders:
 
 # You are welcome to fork, modify and produce it on your own, that said I would like to be in the know about production for profit (dm me on discord: gan1a#5261); also don't be an a*s, don't erase solder mask art))). Rough to-do list is below.
 
-<h2>
-<ul>
-  <s><li>Peer review</li>
-  <ul>
-  <li>Add layout options + maybe rotate the diodes</li>
-  <li>Misc changes from peer review (Ver 0.2)</li></s>
-  </ul>
-  <li>Prototyping; 1st round (Only PCB)</li>
-  <ul>
-  <s><li>Logic and basic stuff checks</li>
-  <li>Fit check with fc660m case</li></s>
-  <li>Sending out first protos to ppl who wanted them</li>
-  </ul>
-  <li>Modifications before official runs</li>
-  <ul>
-  <li>USB port for Leopold case rework, possibly different daughterboard implementation</li>
-  <li>Plate and case development and prototyping</li>
-  <li>First IC</li>
-  </ul>
-</ul>
-</h2>
+# For ongoing development and planed features please refer to the [issues](https://github.com/gan11a/WD66/issues) page of WD66 Repository.
 
 # Huge thanks to my friends FOXY and ANV3R for supporting me through this project.
 
