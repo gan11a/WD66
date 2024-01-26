@@ -4,7 +4,11 @@
 # As of 12/21/2023 PCB is finished, and tested.
 
 # Witch Doctor 66 is a 65% mechanical keyboard, with layout similar to Leopold FC660M. The idea is to make it compatible with Leopold's case if you don't solder in 2 switches. I want this project to live beyond group buy (if it will ever happen), hence secondary function of PCB to be a drop-in replacement into Leopold. You can find pictures of implemented layouts and layouts planed below, as well as pictures of the PCB.
-
+<h2>
+<p align="center">
+Layouts:
+</p>
+</h2>
 <img src="https://i.imgur.com/I7TdzwW.png">
 <img src="https://i.imgur.com/GY7Oimh.png">
 <h2>
@@ -15,6 +19,15 @@ PCB renders:
 <p align="center">
 <img src="https://i.imgur.com/zI6nKso.png">
 <img src="https://i.imgur.com/7HqgUfl.png">
+</p>
+<h2>
+<p align="center">
+Photos:
+</p>
+</h2>
+<p align="center">
+<img src="https://i.imgur.com/nJFyATA.jpg">
+<img src="https://i.imgur.com/FjCnWen.jpg">
 </p>
 
 # You are welcome to fork, modify and produce it on your own, that said I would like to be in the know about production for profit (dm me on discord: gan1a#5261); also don't be an a*s, don't erase solder mask art))). Rough to-do list is below.
