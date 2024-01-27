@@ -1,7 +1,7 @@
 {
-    "manufacturer": "TODO",
+    "manufacturer": "11customs",
     "keyboard_name": "wd66",
-    "maintainer": "TODO",
+    "maintainer": "11customs",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
     "features": {
