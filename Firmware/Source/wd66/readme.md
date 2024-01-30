@@ -1,20 +1,21 @@
 # wd66
 
-![wd66](https://i.imgur.com/7HqgUfl.png)
+![wd66](https://i.imgur.com/FjCnWen.jpg)
 
-*A short description of the keyboard/project*
+# default layout:
+![layout](https://i.imgur.com/BwjDlrh.png)
 
-* Keyboard Maintainer: [11customs](https://github.com/11Customs)
-* Hardware Supported: *WD66_ver1*
-* Hardware Availability: *UNDER_CONSTRUCTION*
+* Keyboard Maintainer: [11customs](https://github.com/gan11a)
+* Hardware Supported: wd66_rev1
+* Hardware Availability: *shop not running yet*
 
-Compile firmware (requires build environment setup):
+Make example for this keyboard (after setting up your build environment):
 
-    qmk compile -kb wd66 -km default
+    make wd66:default
 
-Flash your firmware with [QMK ToolBox](https://github.com/qmk/qmk_toolbox/releases):
+Flashing example for this keyboard:
 
-    wd66_default.hex in qmk_firmware/.build
+    make wd66:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
@@ -22,6 +23,6 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Enter the bootloader in 3 ways:
 
-* **Bootmagic reset**: NOT IMPLEMENTED YET
-* **Physical reset button**: Briefly press the button on the back of the PCB (under spacebar in case of WD66)
-* **Keycode in layout**: NOT IMPLEMENTED
+* **Bootmagic reset**: *not implemented yet*
+* **Physical reset button**: Briefly press the button on the back of the PCB near the spacebar.
+* **Keycode in layout**: *not implemented yet*
