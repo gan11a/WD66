@@ -36,4 +36,4 @@ Photos:
 
 # Huge thanks to my friends FOXY and ANV3R for supporting me through this project.
 
-# By <a href="https://iq1a1s.wixsite.com/11customs">11customs</a>
+# By <a href="https://11customs.com">11customs</a>
